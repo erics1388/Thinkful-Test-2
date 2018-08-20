@@ -1,0 +1,1 @@
+This is a second exercise on GitHub workflow.
